@@ -1,6 +1,3 @@
-# Github_Repository_Intro
-Introduction to Github repo
-
 # GitRepo_Introduction
 Introduction to lab code repo
 by G Zhu
