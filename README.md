@@ -53,25 +53,25 @@ It is necessary if using GitHub Classroom to set up GitHub pages for the projecr
 
 
 ## Quick Demo 
-1. Git clone the project to your local machine:
+1. Git clone the project to your local machine:<br />
 ![](images/git_clone.png)
 
 
-2. Checkout all the file with "ls" command:
+2. Checkout all the file with "ls" command:<br />
 ![](images/ls_cloned.png)
 
 
-3. Create new branch with "git checkout" command:
+3. Create new branch with "git checkout" command:<br />
 ![](images/checkcurrentbranch.png)
 
 
-4. Switch into your working branch from master branch:
+4. Switch into your working branch from master branch:<br />
 ![](images/newBranch_ongit.png)
 
 
-5. Add files/edit the project:
+5. Add files/edit the project:<br />
 ![](images/create_demo.png)
 
 
-6. Save your edit and push it to github repo:
+6. Save your edit and push it to github repo:<br />
 ![](images/pushcode.png)
