@@ -52,3 +52,21 @@ It is necessary if using GitHub Classroom to set up GitHub pages for the projecr
 1. On GitHub, go to `Settings` and check the box for `Template repository` at the top. This makes GitHub page copies much faster.
 
 
+## Quick Demo 
+1. Git clone the project to your local machine:
+![](images/git_clone.png)
+
+2. Checkout all the file with "ls" command:
+![](images/ls_cloned.png)
+
+3. Create new branch with "git checkout" command:
+![](images/checkcurrentbranch.png)
+
+4. Switch into your working branch from master branch:
+![](images/newBranch_ongit.png)
+
+5. Add files/edit the project:
+![](images/create_demo.png)
+
+6. Save your edit and push it to github repo:
+![](images/pushcode.png)
