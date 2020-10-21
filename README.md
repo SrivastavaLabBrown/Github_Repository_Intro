@@ -8,6 +8,8 @@ Git version control allows users to keep track of collaborative work and identif
 
 Here are a few common commands for Github:
 
+## Instructions
+
 ### Commit:
 commit command to make selected files read to go up to the Github repository. 
 
@@ -26,3 +28,27 @@ Once you are ready to merge your edited file into the original file, you can use
 For more GitHub commands: https://gist.github.com/jedmao/5053440 
 
 Familiar yourself with basic Linux/UNIX terminal commands and shell scripting techniques are also helpful for GitHub. Github is one of the most common code version control/repository in the industry. 
+
+### GitHub Pages
+
+It is necessary if using GitHub Classroom to set up GitHub pages for the projecrs, as users do not have admin permissions on their repository. To do this, we need to create and move everything to the `gh-pages` branch and delete the `master` branch.
+
+1. Commit the files to the `master` branch on GitHub.
+
+1. `git branch gh-pages`
+
+1. `git checkout gh-pages`
+
+1. `git branch -D master`
+
+1. `git push origin gh-pages`
+
+1. On GitHub, go to `Settings`->`Branches` and set the default branch to `gh-pages`.
+
+1. `git push origin :master`
+
+### Template Repository
+
+1. On GitHub, go to `Settings` and check the box for `Template repository` at the top. This makes GitHub page copies much faster.
+
+
